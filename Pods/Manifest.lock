@@ -1,0 +1,42 @@
+PODS:
+  - AIFlatSwitch (1.0.7)
+  - AMPopTip (4.1.0)
+  - BFPaperButton (2.1.2)
+  - Hero (1.4.0)
+  - LRSpotlight (2.0.0)
+  - SwiftMessages (7.0.1):
+    - SwiftMessages/App (= 7.0.1)
+  - SwiftMessages/App (7.0.1)
+  - TGPControls (5.1.0)
+
+DEPENDENCIES:
+  - AIFlatSwitch
+  - AMPopTip
+  - BFPaperButton
+  - Hero
+  - LRSpotlight
+  - SwiftMessages
+  - TGPControls
+
+SPEC REPOS:
+  trunk:
+    - AIFlatSwitch
+    - AMPopTip
+    - BFPaperButton
+    - Hero
+    - LRSpotlight
+    - SwiftMessages
+    - TGPControls
+
+SPEC CHECKSUMS:
+  AIFlatSwitch: fd56a5e6ab8769f0b52cef815c4f071e83050352
+  AMPopTip: fc50f5cea7743d1a03076dbd6a1a270f2e6b6d55
+  BFPaperButton: a25fdd3ff6898bdbd5cc9b1334ca36adb0296b9f
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  LRSpotlight: 011a999195010b0a32c3ef650da926675f8922fc
+  SwiftMessages: b577dc7043be8b299857ab35bb663dbff6483bd0
+  TGPControls: 52c0770bee9c9aee364f1559cc627fc01ea5e8b2
+
+PODFILE CHECKSUM: 4dc183f5bc8c6e7761541d5a23f0a09bedeaf376
+
+COCOAPODS: 1.8.4

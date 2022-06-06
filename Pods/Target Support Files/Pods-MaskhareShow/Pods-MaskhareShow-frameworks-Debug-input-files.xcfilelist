@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-MaskhareShow/Pods-MaskhareShow-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AIFlatSwitch/AIFlatSwitch.framework
+${BUILT_PRODUCTS_DIR}/AMPopTip/AMPopTip.framework
+${BUILT_PRODUCTS_DIR}/BFPaperButton/BFPaperButton.framework
+${BUILT_PRODUCTS_DIR}/Hero/Hero.framework
+${BUILT_PRODUCTS_DIR}/LRSpotlight/LRSpotlight.framework
+${BUILT_PRODUCTS_DIR}/SwiftMessages/SwiftMessages.framework
+${BUILT_PRODUCTS_DIR}/TGPControls/TGPControls.framework
